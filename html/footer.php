@@ -1,4 +1,10 @@
-<footer class="panel-footer">
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="../css/global1.css">
+</head>
+<body>
+
+<footer class="footer">
 	<ul id="foot">
 		<li><h3>Career Choices</h3></li>
 		<li><p><strong>Address:</strong> 495/497, Hashu Advani Memorial Complex, Collectors Colony, Chembur, Mumbai, Maharashtra 400074</p></li>
