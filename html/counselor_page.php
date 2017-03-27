@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="../css/counselling_page.css">
+
 <script type="text/javascript">
 	$(document).ready(function() {
 		
