@@ -1,3 +1,4 @@
+</div>
 <footer class="panel-footer">
 	<ul id="foot">
 		<li><h3>Career Choices</h3></li>
